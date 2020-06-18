@@ -6,3 +6,6 @@ Este é um repositório com solução de exercícios em Python criado pelo Googl
 
 * Exercicio de operadores matematicos 
 [exercicio_de_operadores.ipynb](/exercicio_de_operadores.ipynb)
+
+* Exercicio de Condicionais   
+[Exercicios_condicional.ipynb](/Exercicios_condicional.ipynb)
