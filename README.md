@@ -12,3 +12,7 @@ Este é um repositório com solução de exercícios em Python criado pelo Googl
 
 * Exercicios com String
 [exercicio_string.ipynb](/exercicio_string.ipynb)
+
+* Exercicio de lista e Array
+
+[execicios_lista_e_array.ipynb](/execicios_lista_e_array.ipynb)
